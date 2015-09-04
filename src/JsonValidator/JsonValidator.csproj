@@ -7,8 +7,8 @@
     <ProjectGuid>{6DC1108C-7980-41CB-9994-AE041A61BDB2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JsonSchemaV4</RootNamespace>
-    <AssemblyName>JsonSchemaV4</AssemblyName>
+    <RootNamespace>JsonValidator</RootNamespace>
+    <AssemblyName>JsonValidator</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

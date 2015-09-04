@@ -6,8 +6,8 @@
     <ProjectGuid>{C453DA7C-5B6C-400A-9C0E-8182BE3744EC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>JsonSchemaV4.Tests</RootNamespace>
-    <AssemblyName>JsonSchemaV4.Tests</AssemblyName>
+    <RootNamespace>JsonValidator.Tests</RootNamespace>
+    <AssemblyName>JsonValidator.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -58,7 +58,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JsonSchemaV4\JsonSchemaV4.csproj">
+    <ProjectReference Include="..\JsonValidator\JsonValidator.csproj">
       <Project>{6dc1108c-7980-41cb-9994-ae041a61bdb2}</Project>
       <Name>JsonSchemaV4</Name>
     </ProjectReference>
